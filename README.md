@@ -73,5 +73,5 @@ Interactive: Download the .pbix file and open it in Power BI Desktop
 
 Contact
 📧 Email: garvitmathur909@gmail.com
-💼 LinkedIn: https://www.linkedin.com/in/garvit-mathur-b6555312b/
-🌐 Portfolio: 
+💼 LinkedIn: https://www.linkedin.com/in/garvitai/
+🌐 Portfolio: https://shorturl.at/1Qdr5
